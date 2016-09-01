@@ -3,4 +3,6 @@
   */
 object HelloScala extends App{
   println("Hey o/ ")
+  var name: String = "Hi :D"
+  println(name)
 }
